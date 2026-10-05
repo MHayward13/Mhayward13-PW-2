@@ -2,9 +2,9 @@
    Everything else can stay as it is while you write your site. */
 :root {
   --paper: #fcfaf6;
-  --ink: #263b35;
-  --body-ink: #424b46;
-  --accent: #326052;
+  --ink: #000035;
+  --body-ink: #1A2A6C;
+  --accent: #334E8C;
   --muted: #69716b;
   --rule: #dcded5;
   --serif: Georgia, "Times New Roman", serif;
