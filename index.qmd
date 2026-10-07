@@ -13,14 +13,14 @@ page-layout: full
 
 [Quantifying political and social dynamics]{.hero-subtitle}
 
-Analyzing politics, power, and society through quantitative data and critical theory.
+I am a senior undergraduate Political Science and Women's & Gender Studies double major and Applied Data Analytics minor at Loyola Marymount University. My research focuses on analyzing politics, power, and society through quantitative data and critical theory.
 
 [Explore my research](research.qmd){.primary-link} [Say hello](mailto:mahywar2@lion.lmu.edu){.quiet-link}
 :::
 
 ::: {.hero-photo}
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/website photo offical.jpg){fig-alt="Orange flowers, a sample image for this personal website."}
+![](images/website photo NEW.jpg){fig-alt="Orange flowers, a sample image for this personal website."}
 :::
 ::::
 
@@ -28,9 +28,9 @@ Analyzing politics, power, and society through quantitative data and critical th
 ::: {.home-note}
 [01 / IN THE CLASSROOM]{.eyebrow}
 
-## Questions worth asking
+## Investigations and Research
 
-How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+How do the communities we inhabit shape our political and social understanding and interactions? I investigate the intersection between politics and culture through intersectional analysis and examinations of our political, social and economic structures and systems. 
 
 [Academic interests & research](research.qmd)
 :::
@@ -40,8 +40,9 @@ How do the places we live shape our opportunities? I'm learning to turn broad qu
 
 ## Learning by noticing
 
-A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
+Stepping outside of Los Angeles and exploring the great outdoors. Brief examinations, observations and takeways from my time abroad.  
 
-[Read my latest notes](blog.qmd)
+
+[Follow my travel path](travel.qmd)
 :::
 ::::

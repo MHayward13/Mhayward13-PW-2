@@ -1,41 +1,54 @@
 ---
-title: "Profession & career"
-subtitle: "The work I've done and the work I'd like to try."
+title: "Career and Professional Work"
+subtitle: "Current work and noteable skills."
 ---
 
 <!-- CAREER: replace these examples with your own experience. Class and volunteer projects count. -->
 
-## Where I'd like to go
+## Relevant Experience
 
-I'm exploring opportunities that combine research, clear communication, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+### Student Research · Summer Undergraduate Research Program
 
-## Experience
+[SUMMER 2025 & SUMMER 2026]{.project-label}
 
-### Student researcher · Course project
+- Investigate and analyze whether there is a significant link between       religiosity, patriotism and racial bias throughout the United States. 
+- Create complex visualizations, regressions, and computations. 
+- Showcase research at the Spring Undergraduate Research Symposium.
+- Research currently in the process of peer-review and publication
 
-[FALL 2026]{.project-label}
+### Admissions Intern · Undergraduate Student Ambassador Program
 
-- Explore a social question using a public dataset.
-- Create a visualization in R and explain the choices behind it.
-- Share code and notes so a classmate can follow the analysis.
+[Spring 2024-Present]{.project-label}
 
-<!-- Add another role or volunteer project here if useful.
-     Use a heading for the role, then a date and 2–3 concrete contributions.
-     You do not need an internship to have useful experience to share. -->
+- Coordinate logistics, scheduling, and event execution for the Student Ambassador program.
+- Collaborate with Admission staff to coordinate campus recruitment events and support student ambassador operations. 
+- Mentor and support student ambassador cohorts to foster a collborative, engaging and welcoming community. 
 
-## Skills I'm building
+### Volunteer · Gryphon Circle Service Organization
 
-**Research:** turning a broad interest into a focused question, finding sources, and explaining limitations.
+[Spring 2024-Present]{.project-label}
 
-**Data:** working with R, making visualizations, and keeping a project organized.
+- Manage the Service and Social Justice Committee, designing and organizing advocacy events and projects for members and the broader LMU population. 
+- Complete 50+ hours of community service per semester, providing academic tutoring and classroom support to K-12 students throughout the greater Los Angles area. 
+- Partner with administrators and educators to support youth literacy and education, working to create positive learning environments for young students. 
 
-**Collaboration:** giving useful feedback, documenting work, and contributing to a shared project.
+## Beyond LMU: Career Interests
 
-## Let's connect
+- Post graduation I am interested in two distinct paths: attending law school and pursing a career in tribal law or furthering my academic pursuits through obtaining my PhD in Women's & Gender Studies, and working within academia.
 
-I'm happy to talk about projects, internships, and opportunities to learn.
+## Noteable Skills
 
-[Email me](mailto:you@example.com)
+- R-Studio 
+- Python
+- Microsoft Workspace
+- Google Workspace
+- Languages: English (reading, writing, speaking), French (basic speaking, reading, writing)
+
+## Let's Connect
+[Email me](mailto:mhaywar2@lion.lmu.edu)
+
+[Handsake](https://lmu.joinhandshake.com/profiles/ahtmu2)
+
 
 <!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. -->
 <!-- OPTIONAL CV: create a files/ folder, add resume.pdf, then use [My resume](files/resume.pdf). -->

@@ -2,14 +2,14 @@
   {
     "objectID": "travel.html#niagara-falls",
     "href": "travel.html#niagara-falls",
-    "title": "Travel & places",
+    "title": "Travel",
     "section": "Niagara Falls",
     "text": "Niagara Falls\nFIELD NOTES / A DIFFERENT PACE\nSome places make it easier to slow down and pay attention. Here, the movement of the water and the scale of the landscape are a reminder to look beyond the frame of a photograph.\nI’m interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice."
   },
   {
     "objectID": "travel.html#what-i-want-to-remember",
     "href": "travel.html#what-i-want-to-remember",
-    "title": "Travel & places",
+    "title": "Travel",
     "section": "What I want to remember",
     "text": "What I want to remember\n\nThe details that a photograph doesn’t capture.\nA question about the place or the people who live there.\nSomething I would notice differently on a return visit.\n\n\nMore observations on the blog"
   },
@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "POLITICAL SCIENCE | WOMEN’S & GENDER STUDIES | DATA ANALYTICS\n\n\nQuantifying political and social dynamics\nAnalyzing politics, power, and society through quantitative data and critical theory.\nExplore my research Say hello"
+    "text": "POLITICAL SCIENCE | WOMEN’S & GENDER STUDIES | DATA ANALYTICS\n\n\nQuantifying political and social dynamics\nI am a senior undergraduate Political Science and Women’s & Gender Studies double major and Applied Data Analytics minor at Loyola Marymount University. My research focuses on analyzing politics, power, and society through quantitative data and critical theory.\nExplore my research Say hello"
   },
   {
     "objectID": "index.html#questions-worth-asking",
@@ -53,7 +53,7 @@
     "href": "index.html#learning-by-noticing",
     "title": "Home",
     "section": "Learning by noticing",
-    "text": "Learning by noticing\nA new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.\nRead my latest notes"
+    "text": "Learning by noticing\nStepping outside of Los Angeles and exploring the great outdoors. Brief examinations, observations and takeways from my time abroad.\nFollow my travel path"
   },
   {
     "objectID": "blog.html",
@@ -65,9 +65,9 @@
   {
     "objectID": "career.html",
     "href": "career.html",
-    "title": "Profession & career",
+    "title": "Career and Professional Work",
     "section": "",
-    "text": "I’m exploring opportunities that combine research, clear communication, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom."
+    "text": "SUMMER 2025 & SUMMER 2026\n\nInvestigate and analyze whether there is a significant link between religiosity, patriotism and racial bias throughout the United States.\nCreate complex visualizations, regressions, and computations.\nShowcase research at the Spring Undergraduate Research Symposium.\nResearch currently in the process of peer-review and publication\n\n\n\n\nSpring 2024-Present\n\nCoordinate logistics, scheduling, and event execution for the Student Ambassador program.\nCollaborate with Admission staff to coordinate campus recruitment events and support student ambassador operations.\nMentor and support student ambassador cohorts to foster a collborative, engaging and welcoming community.\n\n\n\n\nSpring 2024-Present\n\nManage the Service and Social Justice Committee, designing and organizing advocacy events and projects for members and the broader LMU population.\nComplete 50+ hours of community service per semester, providing academic tutoring and classroom support to K-12 students throughout the greater Los Angles area.\nPartner with administrators and educators to support youth literacy and education, working to create positive learning environments for young students."
   },
   {
     "objectID": "career.html#where-id-like-to-go",
@@ -79,23 +79,23 @@
   {
     "objectID": "career.html#experience",
     "href": "career.html#experience",
-    "title": "Profession & career",
-    "section": "Experience",
-    "text": "Experience\n\nStudent researcher · Course project\nFALL 2026\n\nExplore a social question using a public dataset.\nCreate a visualization in R and explain the choices behind it.\nShare code and notes so a classmate can follow the analysis."
+    "title": "Career and Professional Work",
+    "section": "",
+    "text": "SUMMER 2025 & SUMMER 2026\n\nInvestigate and analyze whether there is a significant link between religiosity, patriotism and racial bias throughout the United States.\nCreate complex visualizations, regressions, and computations.\nShowcase research at the Spring Undergraduate Research Symposium.\nResearch currently in the process of peer-review and publication\n\n\n\n\nSpring 2024-Present\n\nCoordinate logistics, scheduling, and event execution for the Student Ambassador program.\nCollaborate with Admission staff to coordinate campus recruitment events and support student ambassador operations.\nMentor and support student ambassador cohorts to foster a collborative, engaging and welcoming community.\n\n\n\n\nSpring 2024-Present\n\nManage the Service and Social Justice Committee, designing and organizing advocacy events and projects for members and the broader LMU population.\nComplete 50+ hours of community service per semester, providing academic tutoring and classroom support to K-12 students throughout the greater Los Angles area.\nPartner with administrators and educators to support youth literacy and education, working to create positive learning environments for young students."
   },
   {
     "objectID": "career.html#skills-im-building",
     "href": "career.html#skills-im-building",
-    "title": "Profession & career",
+    "title": "Career and Professional Work",
     "section": "Skills I’m building",
     "text": "Skills I’m building\nResearch: turning a broad interest into a focused question, finding sources, and explaining limitations.\nData: working with R, making visualizations, and keeping a project organized.\nCollaboration: giving useful feedback, documenting work, and contributing to a shared project."
   },
   {
     "objectID": "career.html#lets-connect",
     "href": "career.html#lets-connect",
-    "title": "Profession & career",
-    "section": "Let’s connect",
-    "text": "Let’s connect\nI’m happy to talk about projects, internships, and opportunities to learn.\nEmail me"
+    "title": "Career and Professional Work",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nEmail me\nHandsake"
   },
   {
     "objectID": "posts/hello-world.html",
@@ -121,9 +121,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Academic interests & research",
+    "title": "Areas of Interest and Explorations",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "Sitting at the intersection of quantitative political analysis and critical gender theory, my research examines how race, gender, and social dynamics shape power structures and political outcomes. By anchoring my research methodology in intersectional frameworks, I analyze the foundations underlying political behaviors, societal tendencies, representation and institutional power.\n\nIntersectional Political Behaviors: How do race and gender shape who holds power, who participates in political discourse, and who is excluded from representation.\nCritical Systems & Power Structures: How do institutions and social norms shape policy outcomes, and work to challenge or uphold structural system of gender and radicalized inequality.\nData and communication: How quantitative data and empirical methods showcase structural systems of power, labor and inequality?"
   },
   {
     "objectID": "research.html#what-im-curious-about",
@@ -142,8 +142,85 @@
   {
     "objectID": "research.html#what-comes-next",
     "href": "research.html#what-comes-next",
-    "title": "Academic interests & research",
+    "title": "Areas of Interest and Explorations",
     "section": "What comes next",
     "text": "What comes next\nI’d like to compare the same countries over time and consider what these measures leave out."
+  },
+  {
+    "objectID": "research.html#what-im-interested-in.",
+    "href": "research.html#what-im-interested-in.",
+    "title": "Areas of Interest and Explorations",
+    "section": "",
+    "text": "Sitting at the intersection of quantitative political analysis and critical gender theory, my research examines how race, gender, and social dynamics shape power structures and political outcomes. By anchoring research methodology intersectional frameworks, I analyze the foundations underlying political behaviors, societal tendencies, representation and institutional power.\n\nIntersectional Political Behaviors: How do race and gender shape who holds power, who participates in political discourse, and who is excluded from representation.\nCritical Systems & Power Structures: How do institutions and social norms shape policy outcomes, and work to challenge or uphold structural system of gender and radicalized inequality.\nData and communication: How quantitative data and empirical methods showcase structural systems of power, labor and inequality?"
+  },
+  {
+    "objectID": "research.html#research-in-the-works",
+    "href": "research.html#research-in-the-works",
+    "title": "Areas of Interest and Explorations",
+    "section": "Research in the Works:",
+    "text": "Research in the Works:\nCURRENT PROJECTS · IN PROGRESS\n\nComputational Analysis of Psychoanalytic Archetypes: The Virgin / Whore Dichotomy:\nThrough utilizing quantitative methodology and discourse to support my research examines how cultural and psychoanalytical archetypes shape societal standards regarding gender. This project, which will serve as both a Women’s & Gender Studies capstone project, along with a future publication piece, quantifies the Virgin / Whore binary through a close examination of the Virgin Mary’s symbolic representation, iconography, and discourse, analyzing and outlining how social dichotomies shape deeply historical, hierarchical, gendered dynamics.\n\n\nEmpirical Examination of Federal Poilicy and Food Insecurity on Native American Tribal Lands:\nConducting a computational analysis in order to uncover the structural and governmental catalysts of food insecurity across Native American populations. Collecting data from prior academia along with collecting, extracting, examining and analyzing data from local and national datasets, this project will provide an comprehensive and well rounded answer to the following question: Why are there high rates of food insecurity on tribal lands?"
+  },
+  {
+    "objectID": "research.html#pending-publications",
+    "href": "research.html#pending-publications",
+    "title": "Areas of Interest and Explorations",
+    "section": "Pending Publications:",
+    "text": "Pending Publications:\nCURRENT PUBLICATIONS · IN PROGRESS\n\nOne Nation Under God: A Statistical Analysis of Religiosity, Patriotism, and Racial Bias in the United States\nResearch Question. Are White Christian individuals more likely to harbor racist resentment in comparison to their non-Christian counterparts?\nHypothesis. We hypothesize that White Christians will harbor more racial resentment compared to their White non-Christian counterparts. Additionally, we hypothesize that, when controlling for patriotism, White Christians with higher levels of patriotism are even more likely to harbor feelings of resentment toward different racial groups.\nApproach. Use R Studio to analyze data from the 2024 American National Elections Survey to create advanced regressions, models, and visulizations\nOne Nation Under God: A Statistical Analysis of Religiosity, Patriotism, and Racial Bias in the United States."
+  },
+  {
+    "objectID": "research.html#interests-and-examinations",
+    "href": "research.html#interests-and-examinations",
+    "title": "Areas of Interest and Explorations",
+    "section": "",
+    "text": "Sitting at the intersection of quantitative political analysis and critical gender theory, my research examines how race, gender, and social dynamics shape power structures and political outcomes. By anchoring my research methodology in intersectional frameworks, I analyze the foundations underlying political behaviors, societal tendencies, representation and institutional power.\n\nIntersectional Political Behaviors: How do race and gender shape who holds power, who participates in political discourse, and who is excluded from representation.\nCritical Systems & Power Structures: How do institutions and social norms shape policy outcomes, and work to challenge or uphold structural system of gender and radicalized inequality.\nData and communication: How quantitative data and empirical methods showcase structural systems of power, labor and inequality?"
+  },
+  {
+    "objectID": "career.html#noteable-skills",
+    "href": "career.html#noteable-skills",
+    "title": "Career and Professional Work",
+    "section": "Noteable Skills",
+    "text": "Noteable Skills\n\nR-Studio\nPython\nMicrosoft Workspace\nGoogle Workspace\nLanguages: English (reading, writing, speaking), French (basic speaking, reading, writing)"
+  },
+  {
+    "objectID": "career.html#beyond-lmu",
+    "href": "career.html#beyond-lmu",
+    "title": "Career and Professional Work",
+    "section": "Beyond LMU",
+    "text": "Beyond LMU\n\nPost graduation I am interested in two distinct paths: attending law school and pursing a career in tribal law or furthering my academic pursuits through obtaining my PDH in Women’s & Gender Studies, and working within academia."
+  },
+  {
+    "objectID": "career.html#beyond-lmu-career-interests",
+    "href": "career.html#beyond-lmu-career-interests",
+    "title": "Career and Professional Work",
+    "section": "Beyond LMU: Career Interests",
+    "text": "Beyond LMU: Career Interests\n\nPost graduation I am interested in two distinct paths: attending law school and pursing a career in tribal law or furthering my academic pursuits through obtaining my PhD in Women’s & Gender Studies, and working within academia."
+  },
+  {
+    "objectID": "index.html#investigations-and-research",
+    "href": "index.html#investigations-and-research",
+    "title": "Home",
+    "section": "Investigations and Research",
+    "text": "Investigations and Research\nHow do the communities we inhabit shape our political and social understanding and interactions? I investigate the intersection between politics and culture through intersectional analysis and examinations of our political, social and economic structures and systems.\nAcademic interests & research"
+  },
+  {
+    "objectID": "career.html#relevant-experience",
+    "href": "career.html#relevant-experience",
+    "title": "Career and Professional Work",
+    "section": "",
+    "text": "SUMMER 2025 & SUMMER 2026\n\nInvestigate and analyze whether there is a significant link between religiosity, patriotism and racial bias throughout the United States.\nCreate complex visualizations, regressions, and computations.\nShowcase research at the Spring Undergraduate Research Symposium.\nResearch currently in the process of peer-review and publication\n\n\n\n\nSpring 2024-Present\n\nCoordinate logistics, scheduling, and event execution for the Student Ambassador program.\nCollaborate with Admission staff to coordinate campus recruitment events and support student ambassador operations.\nMentor and support student ambassador cohorts to foster a collborative, engaging and welcoming community.\n\n\n\n\nSpring 2024-Present\n\nManage the Service and Social Justice Committee, designing and organizing advocacy events and projects for members and the broader LMU population.\nComplete 50+ hours of community service per semester, providing academic tutoring and classroom support to K-12 students throughout the greater Los Angles area.\nPartner with administrators and educators to support youth literacy and education, working to create positive learning environments for young students."
+  },
+  {
+    "objectID": "travel.html#london-united-kingdom",
+    "href": "travel.html#london-united-kingdom",
+    "title": "Travel",
+    "section": "London, United Kingdom",
+    "text": "London, United Kingdom\nFIELD NOTES\nEvery single winter break I travel to London to visit my father, who is based in Fullham Brodway. Each time I discover something new about the history and culture of this historic and diverse city. Visting London is one of my favorite parts of my winter break, and it is something I look forward to each and every year."
+  },
+  {
+    "objectID": "travel.html#venice-italy",
+    "href": "travel.html#venice-italy",
+    "title": "Travel",
+    "section": "Venice, Italy",
+    "text": "Venice, Italy\nFIELD NOTES\nEach summer, my mother, sisters and I travel to a new country, and these past two summers we have explored various locations in Europe with my Grandmother. These experiences are truly some of my favorite, as I adore watching my grandmother experience traveling to new countries and experiences the beauty, history and diversty of European countries that I have taken for granted in my previous visits."
   }
 ]

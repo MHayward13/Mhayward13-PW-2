@@ -1,26 +1,24 @@
 ---
-title: "Travel & places"
-subtitle: "A few observations from outside my usual routine."
+title: "Travel"
+subtitle: "Stepping Outside of Los Angeles"
 ---
 
 <!-- TRAVEL: replace the image, location, and short reflection with your own. -->
 
-![](images/travel.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
+![](images/London Travel Photo.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
 
-## Niagara Falls
+## London, United Kingdom
 
-[FIELD NOTES / A DIFFERENT PACE]{.project-label}
+[FIELD NOTES]{.project-label}
 
-Some places make it easier to slow down and pay attention. Here, the movement of the water and the scale of the landscape are a reminder to look beyond the frame of a photograph.
+Every single winter break I travel to London to visit my father, who is based in Fullham Brodway. Each time I discover something new about the history and culture of this historic and diverse city. Visting London is one of my favorite parts of my winter break, and it is something I look forward to each and every year. 
 
-I'm interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice.
 
-## What I want to remember
+![](images/Italy photo.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
 
-- The details that a photograph doesn't capture.
-- A question about the place or the people who live there.
-- Something I would notice differently on a return visit.
+## Venice, Italy
 
-<!-- Add another place by copying the image and heading pattern above. -->
+[FIELD NOTES]{.project-label}
 
-[More observations on the blog](blog.qmd)
+Each summer, my mother, sisters and I travel to a new country, and these past two summers we have explored various locations in Europe with my Grandmother. These experiences are truly some of my favorite, as I adore watching my grandmother experience traveling to new countries and experiences the beauty, history and diversty of European countries that I have taken for granted in my previous visits. 
+

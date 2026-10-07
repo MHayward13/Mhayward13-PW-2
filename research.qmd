@@ -1,34 +1,40 @@
 ---
-title: "Academic interests & research"
-subtitle: "Questions, small projects, and work in progress."
+title: "Areas of Interest and Explorations"
+subtitle: "Questions, analysis, theory, and current work"
 ---
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
 
-## What I'm curious about
+## Interests and Examinations: 
 
-I'm interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.
+Sitting at the intersection of quantitative political analysis and critical gender theory, my research examines how race, gender, and social dynamics shape power structures and political outcomes. By anchoring my research methodology in intersectional frameworks, I analyze the foundations underlying political behaviors, societal tendencies, representation and institutional power. 
 
-- **Political participation:** Who gets involved, and what makes participation easier?
-- **Cities and communities:** How do local environments shape everyday choices?
-- **Data and communication:** How can a chart make a complex pattern easier to understand?
+- **Intersectional Political Behaviors:** How do race and gender shape who holds power, who participates in political discourse, and who is excluded from representation. 
+- **Critical Systems & Power Structures:** How do institutions and social norms shape policy outcomes, and work to challenge or uphold structural system of gender and radicalized inequality. 
+- **Data and communication:** How quantitative data and empirical methods showcase structural systems of power, labor and inequality? 
 
-## A project I'm developing
+## Research in the Works:
 
-### Comparing life expectancy across countries
+[CURRENT PROJECTS · IN PROGRESS]{.project-label}
 
-[COURSE PROJECT · IN PROGRESS]{.project-label}
+### Computational Analysis of Psychoanalytic Archetypes: The Virgin / Whore Dichotomy: 
 
-**Question.** How does life expectancy vary with income across countries in a given year?
+Through utilizing quantitative methodology and discourse to support my research examines how cultural and psychoanalytical archetypes shape societal standards regarding gender. This project, which will serve as both a Women’s & Gender Studies capstone project, along with a future publication piece, quantifies the Virgin / Whore binary through a close examination of the Virgin Mary’s symbolic representation, iconography, and discourse, analyzing and outlining how social dichotomies shape deeply historical, hierarchical, gendered dynamics.
 
-**Approach.** Use R to explore the historical Gapminder data and make a clearly labeled visualization.
+### Empirical Examination of Federal Poilicy and Food Insecurity on Native American Tribal Lands:
 
-**What I'm learning.** Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.
+Conducting a computational analysis in order to uncover the structural and governmental  catalysts of food insecurity across Native American populations. Collecting data from prior academia along with collecting, extracting, examining and analyzing data from local and national datasets, this project will provide an comprehensive and well rounded answer to the following question: Why are there high rates of food insecurity on tribal lands?
 
-[Read a reflection on this project](posts/learning-from-a-chart.qmd)
+## Pending Publications:
 
-## What comes next
+[CURRENT PUBLICATIONS · IN PROGRESS]{.project-label}
 
-I'd like to compare the same countries over time and consider what these measures leave out.
+### One Nation Under God: A Statistical Analysis of Religiosity, Patriotism, and Racial Bias in the United States 
 
-<!-- OPTIONAL: add a project link with [Project title](https://your-link). -->
+**Research Question.** Are White Christian individuals more likely to harbor racist resentment in comparison to their non-Christian counterparts?
+
+**Hypothesis.** We hypothesize that White Christians will harbor more racial resentment compared to their White non-Christian counterparts. Additionally, we hypothesize that, when controlling for patriotism, White Christians with higher levels of patriotism are even more likely to harbor feelings of resentment toward different racial groups. 
+
+**Approach.** Use R Studio to analyze data from the 2024 American National Elections Survey to create advanced regressions, models, and visulizations
+
+[One Nation Under God: A Statistical Analysis of Religiosity, Patriotism, and Racial Bias in the United States ](https://your-link).
