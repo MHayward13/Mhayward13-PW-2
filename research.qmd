@@ -28,7 +28,7 @@ Conducting a computational analysis in order to uncover the structural and gover
 
 ## Current Projects:
 
-## Textual Analysis of Queer & LGBTQ Language in Political Parties Campaigns
+## Textual Analysis of LGBTQ Language Utilized in Political Parties Campaigns
 
 
 <iframe src="./research_poster.html" width="100%" height="500px"></iframe>
