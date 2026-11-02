@@ -28,11 +28,10 @@ Conducting a computational analysis in order to uncover the structural and gover
 
 ## Current Projects:
 
-## Text Analysis Showcase Project
+## Textual Analysis of Queer & LGBTQ Language in Political Parties Campaigns
 
 
 <iframe src="./research_poster.html" width="100%" height="500px"></iframe>
-
 
 
 ## Pending Publications:
