@@ -25,6 +25,16 @@ Through utilizing quantitative methodology and discourse to support my research 
 
 Conducting a computational analysis in order to uncover the structural and governmental  catalysts of food insecurity across Native American populations. Collecting data from prior academia along with collecting, extracting, examining and analyzing data from local and national datasets, this project will provide an comprehensive and well rounded answer to the following question: Why are there high rates of food insecurity on tribal lands?
 
+
+## Current Projects:
+
+## Text Analysis Showcase Project
+
+
+<iframe src="./research_poster.html" width="100%" height="500px"></iframe>
+
+
+
 ## Pending Publications:
 
 [CURRENT PUBLICATIONS · IN PROGRESS]{.project-label}
