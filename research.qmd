@@ -28,7 +28,7 @@ Conducting a computational analysis in order to uncover the structural and gover
 
 ## Current Projects:
 
-## Textual Analysis of LGBTQ Language Utilized in Political Parties Campaigns
+## How did Tweets Regarding Impeachment and the Mueller Report use Sentiment and Themes to Frame Political Narratives in 2019?
 
 
 <iframe src="./research_poster.html" width="100%" height="500px"></iframe>
